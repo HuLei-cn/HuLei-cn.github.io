@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I'm a third year undergraduate student from Central China Normal University.
-My research interest includes:
+I'm a third year undergraduate student from Central China Normal University. I'm interested in computer technology and artificial intelligence. My research interest includes:
 - sentiment analysis
 - fake information detection
 - multi-modal learning 
