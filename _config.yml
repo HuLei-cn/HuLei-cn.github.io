@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hu Lei"
-  avatar           : "/images/avatar.png"
+  avatar           : "images/avatar.png"
   bio              : "NLPer"
   location         : "Wuhan, China"
   employer         :
