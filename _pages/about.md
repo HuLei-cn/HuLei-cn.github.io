@@ -11,9 +11,11 @@ redirect_from:
 
 I'm a third year undergraduate student from Central China Normal University.
 My research interest includes:
-1、sentiment analysis
-2、fake information detection
-3、multi-modal learning 
-4、transfer learning
+- sentiment analysis
+- fake information detection
+- multi-modal learning 
+- transfer learning
 
-And you can find more about me from [知乎](https://www.zhihu.com/people/wei-zhi-zhe-71-53).
+I have no publication now but I keep learning and improving my practical ability. And you can find more about me from [知乎](https://www.zhihu.com/people/wei-zhi-zhe-71-53).
+
+My favorite hobby is to work out, includes  street workout and strength training in the gym. One of my favorite sentences is do it with your heart and do it to the extreme. So I will truly put my heart into doing what I want to do well.
