@@ -16,4 +16,4 @@ My research interest includes:
 3、multi-modal learning 
 4、transfer learning
 
-And you can find more about me from [知乎](https://www.zhihu.com/people/wei-zhi-zhe-71-53). My email is [Email](leihu@mails.ccnu.edu.cn).
+And you can find more about me from [知乎](https://www.zhihu.com/people/wei-zhi-zhe-71-53).
