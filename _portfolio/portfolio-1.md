@@ -10,7 +10,7 @@ collection: portfolio
 
 [BiLSTM for text sentiment classification](https://zhuanlan.zhihu.com/p/616015256)
 
-[notes of Attention an dAT-LSTM for text sentiment classification](https://zhuanlan.zhihu.com/p/618223499)
+[notes of Attention and AT-LSTM for text sentiment classification](https://zhuanlan.zhihu.com/p/618223499)
 
 [principle about Transformer](https://zhuanlan.zhihu.com/p/627448301)
 
