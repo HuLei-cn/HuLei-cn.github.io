@@ -15,6 +15,7 @@ collection: portfolio
 [principle about Transformer](https://zhuanlan.zhihu.com/p/627448301)
 
 And after learing a few basic parts, I try to reproduce a paper,the address is as follows:
+
 [reproduce for ATAE-LSTM](https://zhuanlan.zhihu.com/p/658037296)
 
 The above is the learning process of my introduction to natural language processing. Welcome to hit the like button if you like my related passages.
