@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HuLei's academic personal websites"
+title: "HuLei's personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a third year undergraduate student from Central China Normal University. I'm interested in computer technology and artificial intelligence. My research interest includes:
+I'm a second year undergraduate student from Central China Normal University. I'm interested in computer technology and artificial intelligence. My research interest includes:
 - sentiment analysis
 - fake information detection
 - multi-modal learning 
