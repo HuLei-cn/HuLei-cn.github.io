@@ -1,6 +1,6 @@
 ---
 title: "coursework about LM"
-excerpt: "Here are some projects that I have learned NLP before.<br/>"
+excerpt: "There is a pdf<br/>"
 collection: portfolio
 ---
 
