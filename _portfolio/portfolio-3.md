@@ -1,5 +1,5 @@
 ---
-title: "Introduction to NLP"
+title: "coursework about LM"
 excerpt: "Here are some projects that I have learned NLP before.<br/>"
 collection: portfolio
 ---
